@@ -1,7 +1,6 @@
-### Shortest Hamiltonian Path in a Complete Graph
+# Shortest Hamiltonian Path
 
-This algorithm randomly generates a complete graph with a given
-number of nodes in the range 1 to 10.
+This algorithm randomly generates a complete graph with a given number of nodes in the range 1 to 10.
 
 The shortest Hamiltonian path is highlighted.
 
@@ -14,15 +13,16 @@ When the Run button is clicked, the program:
 - Finds the shortest Hamiltonian path in that list.
 - Displays the list and highlights the shortest Hamiltonian path on the graph.
 
-### Report
-[PDF Report · Google Drive](https://drive.google.com/file/d/1rcyyaeUNcprn2rkH0SdynO8TEimtXJaa/view)
+![](https://github.com/Abhijeet-Pitumbur/hamiltonian/project/demo.gif)
 
+##### [View PDF Report](https://drive.google.com/file/d/1rcyyaeUNcprn2rkH0SdynO8TEimtXJaa/view)  · Google Drive
+##### [Download Repository](https://github.com/Abhijeet-Pitumbur/hamiltonian/archive/refs/heads/main.zip)  · GitHub
 
-### IDE Configuration
+## IDE Configuration
 - Download and install [IntelliJ IDE](https://www.jetbrains.com/idea/download/)
 - Download [JavaFX SDK](https://gluonhq.com/products/javafx/)
 - Download [JFoenix JAR](https://github.com/sshahine/JFoenix)
-- Setup [JavaFX and JFoenix in IntelliJ IDE](https://youtu.be/DPjmIn0rWY0)
+- Setup [JavaFX and JFoenix in IntelliJ IDE](https://www.youtube.com/results?search_query=JavaFX+and+JFoenix+in+IntelliJ)
 - Use these VM options:
 ```
 --add-exports
@@ -40,14 +40,14 @@ javafx.graphics/com.sun.javafx.stage=com.jfoenix
 --add-opens=java.base/java.lang.reflect=com.jfoenix
 ```
 
-### Languages, Frameworks and Tools
+## Languages, Frameworks and Tools
 - Java
 - JavaFX
 - JFoenix
 - IntelliJ IDE
 - Scene Builder
 
-### Credits
+## Credits
 - Abhijeet Pitumbur
 - Azhar Mamodeally
 - Deevesh Ramdawor

@@ -13,7 +13,7 @@ When the Run button is clicked, the program:
 - Finds the shortest Hamiltonian path in that list.
 - Displays the list and highlights the shortest Hamiltonian path on the graph.
 
-![](https://github.com/Abhijeet-Pitumbur/hamiltonian/project/demo.gif)
+![](https://github.com/Abhijeet-Pitumbur/hamiltonian/blob/main/project/demo.gif)
 
 ##### [View PDF Report](https://drive.google.com/file/d/1rcyyaeUNcprn2rkH0SdynO8TEimtXJaa/view)  · Google Drive
 ##### [Download Repository](https://github.com/Abhijeet-Pitumbur/hamiltonian/archive/refs/heads/main.zip)  · GitHub
